@@ -13,3 +13,6 @@ Welcome to the Synchronized Timer System for 5-Player Chess! This project provid
 -  **Customization Options**: The timer system offers various customization options to adapt to different game scenarios. Controller can permanently delete a timer if a player is eliminated or customize timers by adding or deducting time when necessary.
 
 -  **Smooth Flow**: With a dedicated timer controller, the game can progress smoothly, as the controller manages and keeps track of time for each player's turn. This ensures a seamless and uninterrupted gaming experience.
+
+
+**Note** : This timer has been used in Finals of Weird Chess Shaastra 2023, IIT Madras and has received excellent feedback from the participants.
