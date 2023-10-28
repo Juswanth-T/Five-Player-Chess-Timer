@@ -1,3 +1,5 @@
+Deployed Website : https://five-player-chess-timer.vercel.app/
+
 # Synchronized Timer System for 5-Player Chess  
 
 Welcome to the Synchronized Timer System for 5-Player Chess! This project provides a specialized timer system designed specifically for 5-player chess games.The timer system allows a single person, who is not part of the game, to control the timers seamlessly, ensuring a smooth flow of the game without any delays between moves of players.
